@@ -30,7 +30,7 @@ This repo was just reamped to suit an Anime-centric community. All original cred
 ### ╒═══「 Creator Info/Credits 」
 
 + ➢ [Lovely Boy](https://github.com/Hodacka) : OWNER | DEV
-+ ➢ [Cutiepii-Robot Repo](https://github.com/Awesome-RJ/CutiepiiRobot) : BASE 
++ ➢ [Cutiepii-Robot Repo](https://github.com/Muzzu5/CutiepiiRobot) : BASE 
 + ➢ Asuana Repo : BASE
 
 
@@ -49,7 +49,7 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 	
   <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/Hodacka/NekoRobot-2">
+        <a href="https://heroku.com/deploy?template=https://github.com/Muzzu5/NekoRobot-2">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
